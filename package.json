@@ -1,0 +1,20 @@
+{
+  "name": "element-script-lib",
+  "version": "1.1.6",
+  "description": "versoin first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "dy",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
